@@ -1,0 +1,1 @@
+Todas as avaliações, trabalhos e exercicios feitos na faculdade durante o ano, foram aprendidos na materia de algoritmos e lógica de programação.
