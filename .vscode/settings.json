@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "FaculdadeFam/src",
+        "codigo_faculdade/src"
+    ],
+    "java.help.shareDiagnostics": true
+}

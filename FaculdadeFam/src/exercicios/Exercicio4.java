@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package exercicios;
 import java.util.Scanner;
 /**
@@ -10,10 +6,7 @@ import java.util.Scanner;
  * @author romei
  */
 public class Exercicio4 {
-    /*faça um algoritmo que o usuario informa seu nome,a sua taxa de comissão e o
-    //salário basesabendo que o código deve calcular o salário total e apresentar 
-    todos esses valores1000*10/1005000*15/100*/
-    
+  
 public static void main(String[] args) {
     
     
